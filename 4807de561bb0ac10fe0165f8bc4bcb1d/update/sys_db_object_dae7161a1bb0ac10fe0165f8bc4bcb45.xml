@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>pineapple_cake_model</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_pineapple_cake_model</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-12-02 20:58:05</sys_created_on>
+        <sys_id>dae7161a1bb0ac10fe0165f8bc4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pineapple_cake_model</sys_name>
+        <sys_package display_value="Pineapple Cake Order Management" source="4807de561bb0ac10fe0165f8bc4bcb1d">4807de561bb0ac10fe0165f8bc4bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</sys_scope>
+        <sys_update_name>sys_db_object_dae7161a1bb0ac10fe0165f8bc4bcb45</sys_update_name>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-12-02 20:58:05</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="u_pineapple_cake_model_user" name="u_pineapple_cake_model_user">8df7d61a1bb0ac10fe0165f8bc4bcb5f</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

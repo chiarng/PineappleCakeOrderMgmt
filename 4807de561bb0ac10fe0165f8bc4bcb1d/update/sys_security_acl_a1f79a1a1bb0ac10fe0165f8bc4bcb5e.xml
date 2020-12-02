@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on u_pineapple_cake_model</description>
+        <name>u_pineapple_cake_model</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-12-02 20:58:07</sys_created_on>
+        <sys_id>a1f79a1a1bb0ac10fe0165f8bc4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_pineapple_cake_model</sys_name>
+        <sys_package display_value="Pineapple Cake Order Management" source="4807de561bb0ac10fe0165f8bc4bcb1d">4807de561bb0ac10fe0165f8bc4bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</sys_scope>
+        <sys_update_name>sys_security_acl_a1f79a1a1bb0ac10fe0165f8bc4bcb5e</sys_update_name>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-12-02 20:58:07</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
