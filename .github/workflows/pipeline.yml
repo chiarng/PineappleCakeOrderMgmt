@@ -30,7 +30,7 @@ jobs:
         id: publish_app
         uses: ServiceNow/sncicd-publish-app@1.0.0
         with:
-          versionTemplate: 1.1
+          versionTemplate: 7.8
           versionFormat: template
         env:
           snowUsername: ${{ secrets.SN_USERNAME }}
