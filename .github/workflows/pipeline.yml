@@ -19,16 +19,17 @@ jobs:
     steps:
 
       - name: ServiceNow CI/CD Apply Changes
-        uses: ServiceNow/sncicd-apply-changes@1.0.0
+        uses: ServiceNow/sncicd-apply-changes@1.2.0
         env:
           snowUsername: ${{ secrets.SN_USERNAME }}
           snowPassword: ${{ secrets.SN_PASSWORD }}
           snowSourceInstance: ${{ secrets.SN_DEV_INSTANCE }}
           appSysID: ${{ secrets.SN_APP_SYSID }}
+          branch: ${GITHUB_REF#refs/heads/}
 
       - name: ServiceNow CI/CD Publish App
         id: publish_app
-        uses: ServiceNow/sncicd-publish-app@1.0.0
+        uses: ServiceNow/sncicd-publish-app@1.2.0
         with:
           versionTemplate: 7.8
           versionFormat: template
