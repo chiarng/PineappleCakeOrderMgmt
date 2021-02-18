@@ -25,7 +25,7 @@ jobs:
           snowPassword: ${{ secrets.SN_PASSWORD }}
           snowSourceInstance: ${{ secrets.SN_DEV_INSTANCE }}
           appSysID: ${{ secrets.SN_APP_SYSID }}
-          branch: ${{ github_ref:11 }}
+          branch: ${{ github.ref }}
 
       - name: ServiceNow CI/CD Publish App
         id: publish_app
