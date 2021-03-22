@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_clustering">
     <ml_capability_definition_clustering action="INSERT_OR_UPDATE">
         <active>true</active>
+        <cal_purity>true</cal_purity>
         <capability display_value="Clustering">366d333453c73300d1dcddeeff7b12fc</capability>
+        <cluster_concept_fields/>
+        <cluster_concept_type/>
+        <create_ci_table>false</create_ci_table>
         <current_solution_version>1</current_solution_version>
         <dataset_language>en</dataset_language>
         <fields>cluster_parameters</fields>
         <filter table="v_cmdb_running_process">sys_created_on&gt;2018-05-17 00:53:25^sys_created_on&lt;=2019-07-16 19:49:41<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="&gt;" or="false" value="2018-05-17 00:53:25"/>
             <item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="&lt;=" or="false" value="2019-07-16 19:49:41"/>
         </filter>
+        <group_unclustered_rec>false</group_unclustered_rec>
         <min_records>2</min_records>
         <purity_fields/>
         <request_source>api</request_source>
