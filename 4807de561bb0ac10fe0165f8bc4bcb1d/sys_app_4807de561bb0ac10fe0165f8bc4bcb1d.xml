@@ -22,22 +22,22 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Pineapple Cake Order Management</short_description>
         <source>4807de561bb0ac10fe0165f8bc4bcb1d</source>
-        <store_correlation_id>REPOAPP0000002841</store_correlation_id>
+        <store_correlation_id>REPOAPP0000003139</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
         <sys_created_on>2020-12-02 20:53:55</sys_created_on>
         <sys_id>4807de561bb0ac10fe0165f8bc4bcb1d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>demoserviceaccount</sys_updated_by>
-        <sys_updated_on>2021-02-04 21:50:27</sys_updated_on>
+        <sys_updated_on>2021-03-22 15:33:24</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>7.8.13</version>
+        <version>7.8.30</version>
     </sys_app>
 </record_update>

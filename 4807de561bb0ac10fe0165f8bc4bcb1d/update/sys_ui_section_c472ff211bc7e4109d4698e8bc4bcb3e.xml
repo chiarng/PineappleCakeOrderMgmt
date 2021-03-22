@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c472ff211bc7e4109d4698e8bc4bcb3e" sys_domain="global" table="u_pineapple_cake_model" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>0</position>
+            <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+            <sys_created_on>2021-03-22 15:59:31</sys_created_on>
+            <sys_id>4082f7611bc7e4109d4698e8bc4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pineapple_cake_model" sys_domain="global" view="Default view">c472ff211bc7e4109d4698e8bc4bcb3e</sys_ui_section>
+            <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+            <sys_updated_on>2021-03-22 15:59:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+            <sys_created_on>2021-03-22 15:59:31</sys_created_on>
+            <sys_id>4882f7611bc7e4109d4698e8bc4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pineapple_cake_model" sys_domain="global" view="Default view">c472ff211bc7e4109d4698e8bc4bcb3e</sys_ui_section>
+            <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+            <sys_updated_on>2021-03-22 15:59:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_pineapple_cake_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+            <sys_created_on>2021-03-22 15:59:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c472ff211bc7e4109d4698e8bc4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_pineapple_cake_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Pineapple Cake Order Management" source="4807de561bb0ac10fe0165f8bc4bcb1d">4807de561bb0ac10fe0165f8bc4bcb1d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</sys_scope>
+            <sys_update_name>sys_ui_section_c472ff211bc7e4109d4698e8bc4bcb3e</sys_update_name>
+            <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+            <sys_updated_on>2021-03-22 15:59:14</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
