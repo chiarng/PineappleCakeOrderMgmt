@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.janka_si1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>janka_si1</name>
+        <script><![CDATA[var janka_si1 = Class.create();
+janka_si1.prototype = {
+    initialize: function() {
+		//change
+    },
+
+    type: 'janka_si1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 22:14:31</sys_created_on>
+        <sys_id>1015a47e14072010f87719fe719e5261</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>janka_si1</sys_name>
+        <sys_package display_value="Pineapple Cake Order Management" source="4807de561bb0ac10fe0165f8bc4bcb1d">4807de561bb0ac10fe0165f8bc4bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</sys_scope>
+        <sys_update_name>sys_script_include_1015a47e14072010f87719fe719e5261</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 22:17:26</sys_updated_on>
+    </sys_script_include>
+</record_update>
