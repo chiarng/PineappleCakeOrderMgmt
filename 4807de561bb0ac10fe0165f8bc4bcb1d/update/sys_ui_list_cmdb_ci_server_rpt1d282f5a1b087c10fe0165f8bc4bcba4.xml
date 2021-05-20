@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_server" version="2" view="RPT1d282f5a1b087c10fe0165f8bc4bcba4">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>os_version</element>
+            <list_id display_value="cmdb_ci_server" element="NULL" name="cmdb_ci_server" parent="NULL" relationship="NULL" sys_domain="global" view="61282f5a1b087c10fe0165f8bc4bcbab">e1282f5a1b087c10fe0165f8bc4bcbac</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+            <sys_created_on>2021-05-13 16:12:32</sys_created_on>
+            <sys_id>65282f5a1b087c10fe0165f8bc4bcbad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+            <sys_updated_on>2021-05-13 16:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_server</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+            <sys_created_on>2021-05-13 16:12:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1282f5a1b087c10fe0165f8bc4bcbac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_server</sys_name>
+            <sys_package display_value="Pineapple Cake Order Management" source="4807de561bb0ac10fe0165f8bc4bcb1d">4807de561bb0ac10fe0165f8bc4bcb1d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_server_RPT1d282f5a1b087c10fe0165f8bc4bcba4</sys_update_name>
+            <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+            <sys_updated_on>2021-05-13 16:12:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt1d282f5a1b087c10fe0165f8bc4bcba4" name="RPT1d282f5a1b087c10fe0165f8bc4bcba4">61282f5a1b087c10fe0165f8bc4bcbab</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
