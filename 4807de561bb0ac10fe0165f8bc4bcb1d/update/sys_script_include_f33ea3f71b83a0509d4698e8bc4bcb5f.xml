@@ -11,20 +11,20 @@
 pineapple_cake_printer_controller.prototype = {
     initialize: function() {
     },
-
+	// let's say this is a feature for today's demo
     type: 'pineapple_cake_printer_controller'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
         <sys_created_on>2021-03-29 15:27:27</sys_created_on>
         <sys_id>f33ea3f71b83a0509d4698e8bc4bcb5f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>pineapple_cake_printer_controller</sys_name>
         <sys_package display_value="Pineapple Cake Order Management" source="4807de561bb0ac10fe0165f8bc4bcb1d">4807de561bb0ac10fe0165f8bc4bcb1d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</sys_scope>
         <sys_update_name>sys_script_include_f33ea3f71b83a0509d4698e8bc4bcb5f</sys_update_name>
-        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
-        <sys_updated_on>2021-03-29 15:27:27</sys_updated_on>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2022-02-15 18:03:27</sys_updated_on>
     </sys_script_include>
 </record_update>
