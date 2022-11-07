@@ -11,9 +11,14 @@
  pineapple_cacke.prototype = {
     initialize: function() {
     },
-     // new development work for a feature
+     // new development work for a feature 1
     type: 'pineapple cacke'
-};]]></script>
+};
+     // new development work for a feature 2
+    
+
+
+]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-07 10:18:54</sys_created_on>
