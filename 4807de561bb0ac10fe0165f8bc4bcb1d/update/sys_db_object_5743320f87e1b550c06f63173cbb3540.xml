@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>VictorsGlobalTableTest</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>victorsglobaltabletest</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>victor.njoroge@snc</sys_created_by>
+        <sys_created_on>2023-10-02 18:37:33</sys_created_on>
+        <sys_id>5743320f87e1b550c06f63173cbb3540</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>VictorsGlobalTableTest</sys_name>
+        <sys_package display_value="VictorsGlobalApp" source="cc333acb87e1b550c06f63173cbb356d">cc333acb87e1b550c06f63173cbb356d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</sys_scope>
+        <sys_update_name>sys_db_object_5743320f87e1b550c06f63173cbb3540</sys_update_name>
+        <sys_updated_by>victor.njoroge@snc</sys_updated_by>
+        <sys_updated_on>2024-01-03 23:03:04</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="victorsglobaltabletest_user" name="victorsglobaltabletest_user">b3a3fecb87e1b550c06f63173cbb353a</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</claim_owner_scope>
+        <claim_timestamp>18cd190e8a50000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_5743320f87e1b550c06f63173cbb3540</metadata_update_name>
+        <previous_claim_app_version>8.8.79</previous_claim_app_version>
+        <previous_claim_name>Pineapple Cake Order Management</previous_claim_name>
+        <previous_claim_scope>4807de561bb0ac10fe0165f8bc4bcb1d</previous_claim_scope>
+        <sys_created_by>victor.njoroge@snc</sys_created_by>
+        <sys_created_on>2024-01-03 23:03:04</sys_created_on>
+        <sys_id>9c5ca2c587e33910c06f63173cbb35a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>victor.njoroge@snc</sys_updated_by>
+        <sys_updated_on>2024-01-03 23:03:04</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Pineapple Cake Order Management">4807de561bb0ac10fe0165f8bc4bcb1d</claim_owner_scope>
+        <claim_timestamp>18b81319c910000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_5743320f87e1b550c06f63173cbb3540</metadata_update_name>
+        <previous_claim_app_version>1.0.1</previous_claim_app_version>
+        <previous_claim_name>VictorsGlobalApp</previous_claim_name>
+        <previous_claim_scope>cc333acb87e1b550c06f63173cbb356d</previous_claim_scope>
+        <sys_created_by>victor.njoroge@snc</sys_created_by>
+        <sys_created_on>2024-01-03 23:03:04</sys_created_on>
+        <sys_id>945ca2c587e33910c06f63173cbb35a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>victor.njoroge@snc</sys_updated_by>
+        <sys_updated_on>2024-01-03 23:03:04</sys_updated_on>
+    </sys_claim>
+</record_update>

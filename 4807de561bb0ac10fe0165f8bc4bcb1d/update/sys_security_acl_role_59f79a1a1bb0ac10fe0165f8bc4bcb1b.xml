@@ -14,6 +14,5 @@
         <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
         <sys_updated_on>2020-12-02 20:58:06</sys_updated_on>
         <sys_user_role display_value="u_pineapple_cake_model_user" name="u_pineapple_cake_model_user">8df7d61a1bb0ac10fe0165f8bc4bcb5f</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

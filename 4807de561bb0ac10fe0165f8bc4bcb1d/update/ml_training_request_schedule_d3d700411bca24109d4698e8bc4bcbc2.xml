@@ -6,6 +6,7 @@
         <condition/>
         <conditional>false</conditional>
         <entered_time/>
+        <max_drift/>
         <ml_capability_definition display_value="ml_x_cross_x_cross_bugtester_global_ml_x_cross_x_c">c3d700411bca24109d4698e8bc4bcb46</ml_capability_definition>
         <ml_solution/>
         <name>ml_x_cross_x_cross_bugtester_global_ml_x_cross_x_c</name>

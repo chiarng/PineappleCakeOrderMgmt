@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on u_pineapple_cake_model</description>
+        <local_or_existing>Local</local_or_existing>
         <name>u_pineapple_cake_model</name>
         <operation display_value="create">create</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
         <sys_created_on>2020-12-02 20:58:06</sys_created_on>

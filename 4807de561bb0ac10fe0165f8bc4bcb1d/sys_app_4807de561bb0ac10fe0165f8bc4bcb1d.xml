@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
+        <ide_created/>
         <installed_as_dependency>false</installed_as_dependency>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
@@ -22,22 +23,23 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Pineapple Cake Order Management</short_description>
         <source>4807de561bb0ac10fe0165f8bc4bcb1d</source>
-        <store_correlation_id>REPOAPP0000001005</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001087</store_correlation_id>
         <store_url/>
+        <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
         <sys_created_on>2020-12-02 20:53:55</sys_created_on>
         <sys_id>4807de561bb0ac10fe0165f8bc4bcb1d</sys_id>
-        <sys_mod_count>10</sys_mod_count>
-        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
-        <sys_updated_on>2022-04-01 16:19:22</sys_updated_on>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_updated_by>victor.njoroge@snc</sys_updated_by>
+        <sys_updated_on>2024-01-03 23:03:45</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>8.6.77</version>
+        <version>8.8.80</version>
     </sys_app>
 </record_update>

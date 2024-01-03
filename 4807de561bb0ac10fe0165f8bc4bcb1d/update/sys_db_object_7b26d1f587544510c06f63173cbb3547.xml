@@ -9,7 +9,6 @@
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>pineapple_cake_model</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -19,9 +18,7 @@
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
         <super_class/>
-        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
         <sys_created_on>2020-12-02 20:58:05</sys_created_on>
         <sys_id>7b26d1f587544510c06f63173cbb3547</sys_id>
